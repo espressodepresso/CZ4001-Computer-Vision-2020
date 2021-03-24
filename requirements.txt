@@ -1,0 +1,5 @@
+PIL
+pytesseract
+opencv-python
+numpy
+matplotlib
